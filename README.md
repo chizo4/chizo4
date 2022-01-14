@@ -24,7 +24,7 @@
 <img align="left" alt="Atom" width="35px" src="https://brandslogos.com/wp-content/uploads/thumbs/atom-logo-vector.svg" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 
 <br/>
 <br/>
@@ -43,8 +43,7 @@
 [<img align="left" alt="chizo4 | Codewars" width="35px" src="https://docs.codewars.com/logo.svg" />][codewars]
 [<img align="left" alt="chizo4 | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
-
-
+<!--LINKS-->
 [linkedin]: https://www.linkedin.com/in/filip-cierkosz-38758322a
 [instagram]: https://www.instagram.com/__chizo__/
 [stackoverflow]: https://stackoverflow.com/users/16192228/chizo4
