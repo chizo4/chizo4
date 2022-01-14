@@ -38,8 +38,9 @@
 <br/>
 
 ## Connect with me:
-[<img align="left" alt="chizo4 | StackOverflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 [<img align="left" alt="chizo4 | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="chizo4 | StackOverflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+[<img align="left" alt="chizo4 | Codewars" width="35px" src="https://docs.codewars.com/logo.svg" />][codewars]
 [<img align="left" alt="chizo4 | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 
@@ -47,3 +48,4 @@
 [linkedin]: https://www.linkedin.com/in/filip-cierkosz-38758322a
 [instagram]: https://www.instagram.com/__chizo__/
 [stackoverflow]: https://stackoverflow.com/users/16192228/chizo4
+[codewars]: https://www.codewars.com/users/chizo4
