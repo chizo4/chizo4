@@ -3,7 +3,7 @@
 ## About
 - 💻 Web Developer at Project Kestrel
 - 🎓 1st year BSc Computer Science student at the University of Sheffield
-- 📊 Fields of interest: Data Science, Web, Artificial Intelligence, Business
+- 📊 Fields of interest: Data Science, Web Tech, Artificial Intelligence, Business
 - 🏊🏼‍♂️ Sports enthusiast
 - 🤝 I’m looking for an entry-level job/summer internship as Software Developer/Data Scientist
 
