@@ -8,23 +8,23 @@
 - 🤝 I’m looking for an entry-level job/summer internship as Software Developer/Data Scientist
 
 ## Programming Languages
-<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />
-<img align="left" alt="Ruby" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" />
-<img align="left" alt="Java" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+[<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
+[<img align="left" alt="Ruby" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" />][ruby]
+[<img align="left" alt="Java" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />][java]
+[<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
 <br/>
 <br/>
 
 ## Tools
-<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="PyCharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
-<img align="left" alt="Atom" width="35px" src="https://brandslogos.com/wp-content/uploads/thumbs/atom-logo-vector.svg" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vs]
+[<img align="left" alt="PyCharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />][pycharm]
+[<img align="left" alt="Atom" width="35px" src="https://brandslogos.com/wp-content/uploads/thumbs/atom-logo-vector.svg" />][atom]
+[<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
+[<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
 
 <br/>
 <br/>
@@ -44,6 +44,20 @@
 [<img align="left" alt="chizo4 | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 <!--LINKS-->
+[python]: https://www.python.org/about/
+[ruby]: https://www.ruby-lang.org/en/about/
+[java]: https://www.java.com/en/download/help/whatis_java.html
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+[vs]: https://code.visualstudio.com/docs/editor/whyvscode
+[pycharm]: https://www.jetbrains.com/help/pycharm/quick-start-guide.html
+[atom]: https://atom.io/
+[terminal]: https://www.linuxjournal.com/content/linux-command-line-interface-introduction-guide
+[git]: https://git-scm.com/about
+[github]: https://github.com/about
+
 [linkedin]: https://www.linkedin.com/in/filip-cierkosz-38758322a
 [instagram]: https://www.instagram.com/__chizo__/
 [stackoverflow]: https://stackoverflow.com/users/16192228/chizo4
