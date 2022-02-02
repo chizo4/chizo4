@@ -5,6 +5,7 @@
 - 🎓 1st year BSc Computer Science student at the University of Sheffield
 - 📊 Fields of interest: Data Science, Web Tech, Artificial Intelligence, Business
 - 🏊🏼‍♂️ Sports enthusiast
+- 🔥 One of my 2022 goals is to publish more projects on GitHub
 - 🤝 I’m looking for an entry-level job/summer internship as Software Developer/Data Scientist
 
 ## Programming Languages
