@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-## Connect with me
+## Let's Make a Connection
 [<img align="left" alt="chizo4 | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="chizo4 | StackOverflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 [<img align="left" alt="chizo4 | Codewars" width="35px" src="https://docs.codewars.com/logo.svg" />][codewars]
