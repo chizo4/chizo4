@@ -40,9 +40,9 @@
 
 ## Let's Make a Connection
 [<img align="left" alt="chizo4 | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="chizo4 | StackOverflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 [<img align="left" alt="chizo4 | Codewars" width="35px" src="https://docs.codewars.com/logo.svg" />][codewars]
-[<img align="left" alt="chizo4 | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="chizo4 | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />][instagram]
+[<img align="left" alt="chizo4 | StackOverflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 
 <!--LINKS-->
 [python]: https://www.python.org/about/
