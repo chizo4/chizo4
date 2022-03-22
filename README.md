@@ -23,8 +23,9 @@
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vs]
 [<img align="left" alt="PyCharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />][pycharm]
 [<img align="left" alt="intellij" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />][intellij]
-[<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Ruby on Rails" width="35px" src="https://www.spaceo.ca/wp-content/uploads/2020/12/startup_log.svg" />][ruby_on_rails]
 [<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
+[<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
 
 <br/>
@@ -58,6 +59,7 @@
 [terminal]: https://www.linuxjournal.com/content/linux-command-line-interface-introduction-guide
 [git]: https://git-scm.com/about
 [github]: https://github.com/about
+[ruby_on_rails]: https://rubyonrails.org/
 
 [linkedin]: https://www.linkedin.com/in/filip-cierkosz-38758322a
 [instagram]: https://www.instagram.com/__chizo__/
