@@ -1,4 +1,4 @@
-# What's good? I am Filip. Welcome to my GitHub profile! 💥
+# What's good? I am Filip. Welcome to my GitHub profile! 🚀
 
 ## About
 - 💻 Web Developer at Project Kestrel
