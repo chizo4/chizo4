@@ -6,7 +6,7 @@
 - 📊 Fields of interest: Data Science, Web Tech, Artificial Intelligence, Business
 - 🏊🏼‍♂️ Sports enthusiast
 - 🔥 One of my 2022 goals is to publish more projects on GitHub
-- 🤝 I’m looking for an entry-level job/summer internship as Software Developer/Data Scientist
+- 🤝 I’m looking for an entry-level job/summer internship as a Software Developer/Data Scientist
 
 ## Programming Languages
 [<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
