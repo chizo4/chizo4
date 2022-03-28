@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-## Languages
+## Spoken Languages
 <img align="left" alt="Polish" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197529.png" />
 <img align="left" alt="English" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" />
 <img align="left" alt="German" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197571.png" />
