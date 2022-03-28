@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-## Let's Make a Connection
+## Let's Make a Connection!
 [<img align="left" alt="chizo4 | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="chizo4 | Codewars" width="35px" src="https://docs.codewars.com/logo.svg" />][codewars]
 [<img align="left" alt="chizo4 | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />][instagram]
