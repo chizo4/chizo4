@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-## Favorite Tools & Frameworks
+## Tools & Frameworks
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vs]
 [<img align="left" alt="PyCharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />][pycharm]
 [<img align="left" alt="intellij" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />][intellij]
