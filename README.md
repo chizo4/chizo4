@@ -2,8 +2,8 @@
 
 ## About
 - 💻 Web Developer at Project Kestrel
-- 🎓 1st year BSc Computer Science student at the University of Sheffield
-- 📊 Fields of interest: Data Science, Web Tech, Artificial Intelligence, Business
+- 🎓 1st year Bachelor of Computer Science student at the University of Sheffield
+- 📊 Fields of interest: Machine Learning, Web Tech, AI, Business
 - 🏊🏼‍♂️ Sports enthusiast
 - 🔥 One of my 2022 goals is to publish more projects on GitHub
 - 🤝 I’m looking for an entry-level job/summer internship as a Software Developer/Data Scientist
@@ -67,7 +67,7 @@
 [numpy]: https://numpy.org/devdocs/user/whatisnumpy.html
 [pandas]: https://pandas.pydata.org/
 
-[linkedin]: https://www.linkedin.com/in/filip-cierkosz-38758322a
+[linkedin]: https://www.linkedin.com/in/filip-cierkosz/
 [instagram]: https://www.instagram.com/__chizo__/
 [stackoverflow]: https://stackoverflow.com/users/16192228/chizo4
 [codewars]: https://www.codewars.com/users/chizo4
