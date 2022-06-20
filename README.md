@@ -1,12 +1,12 @@
-# What's good? I am Filip. Welcome to my GitHub profile! 🚀
+# What's good? I am Filip. Welcome to my GitHub profile! 🎯
 
 ## About
+- 💥 2022 Summer Software Engineering Intern at The Curve
 - 💻 Web Developer at Project Kestrel
 - 🎓 1st year Bachelor of Computer Science student at the University of Sheffield
-- 📊 Fields of interest: Machine Learning, Web Tech, AI, Business
+- 📊 Fields of interest: Machine Learning, Web Tech, Entrepreneurship
 - 🏊🏼‍♂️ Sports enthusiast
-- 🔥 One of my 2022 goals is to publish more projects on GitHub
-- 🤝 I’m looking for an entry-level job/summer internship as a Software Developer/Data Scientist
+- 🚀 One of my 2022 goals is to publish more projects on GitHub
 
 ## Programming Languages
 [<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
