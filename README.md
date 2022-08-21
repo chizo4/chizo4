@@ -1,3 +1,5 @@
+![](https://visitcount.itsvg.in/api?id=chizo4&label=Profile%20Views&color=12&icon=1&pretty=true)
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
    alt="Waving hand animated gif"
@@ -6,14 +8,12 @@
   Glad to see you here! I'm Filip. Welcome to my profile!
 </h1>
 
-[![](https://visitcount.itsvg.in/api?id=chizo4&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
 ## 📟 About
-- 🎯 Software Engineer at [The Curve](https://thecurve.io/) & Web Developer at [Project Kestrel](https://www.linkedin.com/company/project-kestrel/mycompany/)
+- 🚀 Software Engineer at [The Curve](https://thecurve.io/) & Web Developer at [Project Kestrel](https://www.linkedin.com/company/project-kestrel/mycompany/)
 - 🎓 Second year Bachelor of Computer Science student at the [University of Sheffield](https://www.sheffield.ac.uk/)
-- 📊 Fields of interest: Machine Learning, Web Tech, Entrepreneurship
+- 📚 Fields of interest: Machine Learning, Web Tech, Entrepreneurship
 - 🏊🏼‍♂️ Sports enthusiast - especially: swimming, jump roping, calisthenics, F1
-- 🚀 Feel free to make a connection using the section at the bottom!
+- 👇 Feel free to make a connection using the section at the bottom!
 
 ## 💻 Programming Languages
 [<img align="left" alt="Python" width="25px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
@@ -37,7 +37,7 @@
 <br/>
 
 ## 🔥 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chizo4&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chizo4&theme=dark&background=000000)
 
 ## 🌍 Spoken Languages
 <img align="left" alt="Polish" width="25px" src="https://cdn-icons-png.flaticon.com/512/197/197529.png" />
