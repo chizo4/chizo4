@@ -38,7 +38,7 @@
 
 <br/>
 
-## 🔥 GitHub Stats
+## 📈 GitHub Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chizo4&theme=dark&background=000000)
 
 ## 🌍 Spoken Languages
