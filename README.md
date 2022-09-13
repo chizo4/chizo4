@@ -1,7 +1,5 @@
 ![](https://visitcount.itsvg.in/api?id=chizo4&label=Profile%20Views&color=12&icon=1&pretty=true)
 
-##
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
    alt="Waving hand animated gif"
@@ -28,10 +26,11 @@
 ```python
 class Chizo:
     def __init__(self):
-        self.username = 'chizo4'
         self.name = 'Filip Cierkosz'
         self.role = 'Software Engineer'
-        self.coding_skills = {
+        self.spoken_languages = ['English', 'Polish', 'German']
+        self.hobbies = ['Software Engineering', 'Entrepreneurship', 'Swimming']
+        self.code = {
             'programming languages': ['Ruby', 'Python', 'Java', 'JavaScript'],
             'tools/frameworks': ['Git', 'GitHub', 'Rails', 'React' 'PyTorch', 'Pandas', 'Jupyter Notebook'],
             'database': ['MySQL', 'PostgreSQL', 'SQLite3'],
@@ -39,8 +38,6 @@ class Chizo:
             'ide': ['VS Code', 'RubyMine'],
             'os': ['Linux', 'macOS']
         }
-        self.spoken_languages = ['English', 'Polish', 'German']
-        self.hobbies = ['Software Engineering', 'Entrepreneurship', 'Swimming']
         
     def greet(self):
         print('Thanks for visiting - I hope you found my work interesting!')
