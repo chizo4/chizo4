@@ -31,11 +31,11 @@ class Chizo:
         self.spoken_languages = ['English', 'Polish', 'German']
         self.hobbies = ['Software Engineering', 'Entrepreneurship', 'Swimming']
         self.code = {
-            'programming languages': ['Ruby', 'Python', 'Java', 'JavaScript'],
-            'tools/frameworks': ['Git', 'GitHub', 'Rails', 'React' 'PyTorch', 'Pandas', 'Jupyter Notebook'],
+            'languages': ['Ruby', 'Python', 'Java', 'JavaScript'],
+            'tools': ['Git', 'GitHub', 'Jupyter Notebook', 'VS Code', 'Jira'],
+            'frameworks': ['Rails', 'React', 'Bootstrap', 'PyTorch', 'Pandas'],
             'database': ['MySQL', 'PostgreSQL', 'SQLite3'],
             'devops': ['Docker', 'GitHub Actions'],
-            'ide': ['VS Code', 'RubyMine'],
             'os': ['Linux', 'macOS']
         }
         
