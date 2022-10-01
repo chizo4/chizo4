@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  I'm a second year Computer Science student at the  <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about software engineering, machine learning and entrepreneurship. I combine my studies with a part-time software engineer work at <a href="https://thecurve.io/">The Curve</a>, and I am actively involved in a student-led <a href="https://www.linkedin.com/company/project-kestrel/mycompany/">Project Kestrel</a> where I develop the project's website. Additionally, I'm a big sports enthusiast and I've been a competitive swimmer for many years. I also love jump roping, doing calisthenics and watching F1 races!
+  I'm a second year Computer Science student at the  <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about software engineering, machine learning, entrepreneurship and science. I combine my studies with a part-time software engineering job at <a href="https://thecurve.io/">The Curve</a>, and I am actively involved in a student-led <a href="https://www.linkedin.com/company/project-kestrel/mycompany/">Project Kestrel</a> where I develop the project's website. I'm a big sports enthusiast and I actually used to be a competitive swimmer for many years. In addition to this, I love jump roping, calisthenics, weekend projects (especially in Python) and watching F1 races!
 </p>
 
 <div align="center">
@@ -31,12 +31,12 @@ class Chizo:
         self.spoken_languages = ['English', 'Polish', 'German']
         self.hobbies = ['Software Engineering', 'Entrepreneurship', 'Swimming']
         self.code = {
-            'languages': ['Ruby', 'Python', 'Java', 'JavaScript'],
+            'languages': ['Ruby', 'Python', 'Java', 'JavaScript', 'Haskell'],
             'tools': ['Git', 'GitHub', 'Jupyter Notebook', 'VS Code', 'Jira'],
-            'frameworks': ['Rails', 'React', 'Bootstrap', 'PyTorch', 'Pandas'],
+            'frameworks': ['PyTorch', 'Pandas', 'Rails', 'React', 'Bootstrap', 'Tailwind'],
             'database': ['MySQL', 'PostgreSQL', 'SQLite3'],
             'devops': ['Docker', 'GitHub Actions'],
-            'os': ['Linux', 'macOS']
+            'os': ['macOS', 'Linux']
         }
         
     def greet(self):
@@ -48,6 +48,4 @@ if __name__ == '__main__':
 ```
 
 ## 📈 Quick Stats
-| GitHub Streak | Top Languages |
-| --- | --- |
-| ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chizo4&theme=highcontrast&background=000000) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chizo4&show_icons=true&theme=highcontrast&count_private=true&layout=compact) |
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chizo4&theme=highcontrast&background=000000)
