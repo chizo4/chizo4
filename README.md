@@ -31,16 +31,17 @@ class Chizo:
         self.spoken_languages = ['English', 'Polish', 'German']
         self.hobbies = ['Software Engineering', 'Entrepreneurship', 'Swimming']
         self.code = {
-            'languages': ['Ruby', 'Python', 'Java', 'JavaScript', 'Haskell'],
-            'tools': ['Git', 'GitHub', 'Jupyter Notebook', 'VS Code', 'Jira'],
-            'frameworks': ['PyTorch', 'Pandas', 'Rails', 'React', 'Bootstrap', 'Tailwind'],
-            'database': ['MySQL', 'PostgreSQL', 'SQLite3'],
-            'devops': ['Docker', 'GitHub Actions'],
-            'os': ['macOS', 'Linux']
+            'OOP languages': ['Ruby', 'Python', 'Java', 'JavaScript'],
+            'FP languages': ['Haskell'],
+            'Tools': ['Git', 'GitHub', 'Jupyter', 'VS Code', 'Jira'],
+            'Frameworks': ['NumPy', 'OpenCV', 'Pandas', 'Rails', 'React', 'Bootstrap', 'Tailwind'],
+            'Database': ['MySQL', 'PostgreSQL', 'SQLite3'],
+            'DevOps': ['Docker', 'GitHub Actions'],
+            'OS': ['macOS', 'Linux']
         }
         
     def greet(self):
-        print('Thanks for visiting - I hope you found my work interesting!')
+        print("Thanks for visiting - don't forget to check out my projects!")
 
 if __name__ == '__main__':
     me = Chizo()
