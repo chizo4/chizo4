@@ -14,10 +14,11 @@
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-cierkosz/)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cierkoszfilip)
   [![Codewars Badge](https://img.shields.io/badge/Codewars-FF0000?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/chizo4)
   [![GitHub Badge](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chizo4)
   [![Stackoverflow Badge](https://img.shields.io/badge/stackoverflow-FF4500?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16192228/chizo4)
+  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-cierkosz/)
 
 </div>
 
@@ -30,8 +31,8 @@ class Chizo:
         self.role = 'Software Engineer'
         self.spoken_languages = ['English', 'Polish', 'German']
         self.hobbies = ['Software Engineering', 'Entrepreneurship', 'Swimming']
-        self.code = {
-            'OOP languages': ['Ruby', 'Python', 'Java', 'JavaScript'],
+        self.coding_skills = {
+            'OOP languages': ['Python', 'Ruby', 'Java', 'JavaScript'],
             'FP languages': ['Haskell'],
             'Tools': ['Git', 'GitHub', 'Jupyter', 'VS Code', 'Jira'],
             'Frameworks': ['NumPy', 'OpenCV', 'Pandas', 'Rails', 'React', 'Bootstrap', 'Tailwind'],
@@ -41,7 +42,7 @@ class Chizo:
         }
         
     def greet(self):
-        print("Thanks for visiting - don't forget to check out my projects!")
+        print("Thanks for visiting! Do NOT forget to star my projects ;)")
 
 if __name__ == '__main__':
     me = Chizo()
