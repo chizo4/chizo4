@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  I'm a second year Computer Science student at the  <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about software engineering, machine learning, entrepreneurship and science. I combine my studies with a part-time software engineering job at <a href="https://thecurve.io/">The Curve</a>, and I am actively involved in a student-led <a href="https://www.linkedin.com/company/project-kestrel/mycompany/">Project Kestrel</a> where I develop the project's website. I'm a big sports enthusiast and I actually used to be a competitive swimmer for many years. In addition to this, I love jump roping, calisthenics, weekend projects (especially in Python) and watching F1 races!
+  I'm a Computer Science student at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about machine learning, entrepreneurship and science. I combine my studies with a part-time software engineering job at <a href="https://thecurve.io/">The Curve</a> and I am actively involved in several student-led projects at my university. I'm an athlete and a sports enthusiast with a paricular interest in swimming, gym and calisthenics, and running. My goal is to contribute to the sustainable development of the world through the use of AI!
 </p>
 
 <div align="center">
