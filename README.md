@@ -5,8 +5,14 @@
 </h1>
 
 <p align="center">
-  I'm a Computer Science student at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about machine learning, entrepreneurship and science. My goal is to contribute to the sustainable development of the world through the use of AI! Find out more on my <a href="https://filipcierkosz.com/">website</a>.
+  I'm a Computer Science student at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about machine learning, entrepreneurship and science. My goal is to contribute to the sustainable development of the world through the use of AI! Find out more below...
 </p>
+
+<div align="center">
+  
+  [![Twitter Badge](https://img.shields.io/badge/Visit_My_Website-3108d4?style=for-the-badge&logoColor=white)](https://filipcierkosz.com)
+  
+</div>
 
 <div align="center">
 
