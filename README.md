@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  I'm a Computer Science student at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about machine learning, entrepreneurship and science. I combine my studies with a part-time software engineering job at <a href="https://thecurve.io/">The Curve</a> and I am actively involved in several student-led projects at my university. I'm an athlete and a sports enthusiast with a paricular interest in swimming, gym and calisthenics, and running. My goal is to contribute to the sustainable development of the world through the use of AI!
+  I'm a Computer Science student at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about machine learning, entrepreneurship and science. My goal is to contribute to the sustainable development of the world through the use of AI! Find out more on my <a href="https://filipcierkosz.com/">website</a>.
 </p>
 
 <div align="center">
@@ -23,22 +23,20 @@
 ```python
 class Chizo:
     def __init__(self):
-        self.name = 'Filip Cierkosz'
-        self.role = 'Software Engineer'
+        self.name = 'Filip J. Cierkosz'
+        self.roles = ['software engineer', 'student', 'athlete']
         self.spoken_languages = ['English', 'Polish', 'German']
-        self.hobbies = ['Software Engineering', 'Entrepreneurship', 'Swimming']
         self.coding_skills = {
-            'OOP languages': ['Python', 'Ruby', 'Java', 'JavaScript'],
-            'FP languages': ['Haskell'],
-            'Tools': ['Git', 'GitHub', 'Jupyter', 'VS Code', 'Jira'],
-            'Frameworks': ['NumPy', 'OpenCV', 'Pandas', 'Rails', 'React', 'Bootstrap', 'Tailwind'],
-            'Database': ['MySQL', 'PostgreSQL', 'SQLite3'],
-            'DevOps': ['Docker', 'GitHub Actions'],
-            'OS': ['macOS', 'Linux']
+            'languages': ['Python', 'Ruby', 'Java', 'JavaScript'],
+            'tools': ['Git', 'GitHub', 'Jupyter', 'VS Code', 'Jira'],
+            'frameworks': ['NumPy', 'OpenCV', 'TensorFlow', 'Pandas', 'Rails', 'React', 'Vite', 'Tailwind'],
+            'database': ['MySQL', 'PostgreSQL', 'SQLite3'],
+            'devops': ['Docker', 'GitHub Actions/Pages'],
+            'os': ['macOS', 'Linux']
         }
         
     def greet(self):
-        print("Thanks for visiting! Do NOT forget to star my projects ;)")
+        print('Thanks for visiting! Do NOT forget to star my projects ;)')
 
 if __name__ == '__main__':
     me = Chizo()
