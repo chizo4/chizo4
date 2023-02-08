@@ -49,5 +49,9 @@ if __name__ == '__main__':
     me.greet()
 ```
 
+## 🌐 Visit my active websites
+- [```Personal Portfolio```](https://filipcierkosz.com/)
+- [```Project: Kestrel```](https://chizo4.github.io/project-kestrel/)
+
 ## 📈 Quick Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chizo4&theme=highcontrast&background=000000)
