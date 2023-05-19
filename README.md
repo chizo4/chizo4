@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 ## 🌐 Visit my active websites
 - [```Personal Portfolio```](https://filipcierkosz.com/)
-- [```Project: Kestrel```](https://chizo4.github.io/project-kestrel/)
+- [```Project: Kestrel```](https://project-kestrel.co.uk/)
 
 ## 📈 Quick Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chizo4&theme=highcontrast&background=000000)
