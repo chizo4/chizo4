@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  I'm a Computer Science student at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about machine learning, entrepreneurship and science. My goal is to contribute to the sustainable development of the world through the use of AI! Find out more below...
+  I'm a Computer Science student at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about machine learning, science and sports. My goal is to deliver high quality software products and seek AI-based solutions that enhance the quality of our lives without replacing us! Find out more below...
 </p>
 
 <div align="center">
@@ -30,13 +30,13 @@
 class Chizo:
     def __init__(self):
         self.name = 'Filip J. Cierkosz'
-        self.roles = ['software engineer', 'student', 'athlete']
+        self.roles = ['software engineer', 'student', 'hybrid athlete']
         self.spoken_languages = ['English', 'Polish', 'German']
         self.coding_skills = {
             'languages': ['Python', 'Ruby', 'Java', 'JavaScript'],
-            'tools': ['Git', 'GitHub', 'Jupyter', 'VS Code', 'Jira'],
-            'frameworks': ['NumPy', 'OpenCV', 'TensorFlow', 'Pandas', 'Rails', 'React', 'Vite', 'Tailwind'],
-            'database': ['MySQL', 'PostgreSQL', 'SQLite3'],
+            'tools': ['Git', 'GitHub', 'Jupyter', 'VS Code', 'Terminal', 'Jira'],
+            'frameworks': ['Rails', 'NumPy', 'OpenCV', 'TensorFlow', 'React', 'Bootstrap'],
+            'database': ['MySQL', 'PostgreSQL', 'MongoDB', 'SQLite3'],
             'devops': ['Docker', 'GitHub Actions/Pages'],
             'os': ['macOS', 'Linux']
         }
@@ -50,8 +50,9 @@ if __name__ == '__main__':
 ```
 
 ## 🌐 Visit my active websites
-- [```Personal Portfolio```](https://filipcierkosz.com/)
+- [```FJC Portfolio```](https://filipcierkosz.com/)
 - [```Project: Kestrel```](https://project-kestrel.co.uk/)
 
 ## 📈 Quick Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chizo4&theme=highcontrast&background=000000)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chizo4&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
