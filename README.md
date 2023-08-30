@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  [![Twitter Badge](https://img.shields.io/badge/Visit_My_Website-3108d4?style=for-the-badge&logoColor=white)](https://filipcierkosz.com)
+  [![Website Badge](https://img.shields.io/badge/Visit_My_Website-3108d4?style=for-the-badge&logo=starship&logoColor=white)](https://filipcierkosz.com)
   
 </div>
 
@@ -34,10 +34,10 @@ class Chizo:
         self.spoken_languages = ['English', 'Polish', 'German']
         self.coding_skills = {
             'languages': ['Python', 'Ruby', 'Java', 'JavaScript'],
-            'tools': ['Git', 'GitHub', 'Jupyter', 'VS Code', 'Terminal', 'Jira'],
             'frameworks': ['Rails', 'NumPy', 'OpenCV', 'TensorFlow', 'React', 'Bootstrap'],
             'database': ['MySQL', 'PostgreSQL', 'MongoDB', 'SQLite3'],
-            'devops': ['Docker', 'GitHub Actions/Pages'],
+            'tools': ['Git', 'GitHub', 'Jupyter', 'VS Code', 'Terminal', 'Jira'],
+            'devops': ['Docker', 'GitHub Actions', 'Heroku'],
             'os': ['macOS', 'Linux']
         }
         
