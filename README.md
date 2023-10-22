@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-   <b>Find out more below...</b>
+   <b>👇 Find out more below...</b>
 </p>
 
 <div align="center">
