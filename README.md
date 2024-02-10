@@ -20,11 +20,9 @@
 
 <div align="center">
 
+  [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cierkoszfilip)
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-cierkosz/)
-  [![Codewars Badge](https://img.shields.io/badge/Codewars-FF0000?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/chizo4)
   [![GitHub Badge](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chizo4)
-  [![Stackoverflow Badge](https://img.shields.io/badge/stackoverflow-FF4500?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16192228/chizo4)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cierkoszfilip)
 
 </div>
 
