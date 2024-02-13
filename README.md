@@ -35,7 +35,7 @@ class Chizo:
         self.roles = ['Software Engineer', 'Student', 'Hybrid Athlete']
         self.coding_skills = {
             'languages': ['Python', 'Ruby', 'JavaScript', 'Java'],
-            'fav frameworks': ['Rails', 'React', 'Transformers', 'TensorFlow', 'OpenCV'],
+            'fav frameworks': ['Rails', 'React', 'Transformers', 'PyTorch', 'OpenCV'],
             'fav tools': ['Git', 'Redis', 'Shell', 'Jupyter', 'VS Code', 'Jira'],
             'database': ['MySQL', 'PostgreSQL', 'MongoDB', 'SQLite3'],
             'devops': ['Docker', 'GitHub Actions', 'Heroku'],
