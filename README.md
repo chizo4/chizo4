@@ -67,10 +67,6 @@ if __name__ == '__main__':
     me.greet()
 ```
 
-## 🌐 Active Websites
-- [```FJC Portfolio```](https://filipcierkosz.com/)
-- [```Project: Kestrel```](https://project-kestrel.co.uk/)
-
 ## 📈 Quick Stats
 
 <div align="center">
