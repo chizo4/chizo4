@@ -5,17 +5,17 @@
 </h1>
 
 <p align="center">
-  I'm a Computer Science student at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>, who is enthusiastic about machine learning, business and sports. My goal is to deliver high quality software products and seek AI-based solutions that enhance the quality of our lives without replacing us!
+  I'm an MSc Data Science student at the <a href="https://www.uva.nl/">University of Amsterdam</a> and a recent graduate of BSc Computer Science (Class One Hons) at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>. I am very enthusiastic about machine learning, business and sports. My goal is to deliver high quality software products and seek AI-based solutions that enhance the quality of our lives - without replacing us!
 </p>
 
 <p align="center">
    <b>👇 Find out more below...</b>
 </p>
 
+<!-- [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cierkoszfilip) -->
 <div align="center">
 
   [![Website Badge](https://img.shields.io/badge/My_Website-3108d4?style=for-the-badge&logo=starship&logoColor=white)](https://filipcierkosz.com)
-  [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cierkoszfilip)
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-cierkosz/)
   [![GitHub Badge](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chizo4)
 
@@ -34,7 +34,7 @@ class Chizo:
         self.name = 'Filip J. Cierkosz'
         self.roles = ['Software Engineer', 'Student', 'Hybrid Athlete']
         self.coding_skills = {
-            'languages': ['Python', 'Ruby', 'JavaScript', 'Java'],
+            'languages': ['Python', 'Ruby', 'JavaScript', 'Java', 'R'],
             'fav frameworks': ['Rails', 'React', 'Transformers', 'PyTorch', 'OpenCV'],
             'fav tools': ['Git', 'Redis', 'Shell', 'Jupyter', 'VS Code', 'Jira'],
             'database': ['MySQL', 'PostgreSQL', 'MongoDB', 'SQLite3'],
