@@ -34,9 +34,9 @@ class Chizo:
         self.name = 'Filip J. Cierkosz'
         self.roles = ['Software Engineer', 'Student', 'Hybrid Athlete']
         self.coding_skills = {
-            'languages': ['Python', 'Ruby', 'JavaScript', 'Java', 'R'],
-            'fav frameworks': ['Rails', 'React', 'Transformers', 'PyTorch', 'OpenCV'],
-            'fav tools': ['Git', 'Redis', 'Shell', 'Jupyter', 'VS Code', 'Jira'],
+            'languages': ['Python', 'Ruby', 'JavaScript', 'Java'],
+            'fav frameworks': ['Transformers', 'PyTorch', 'OpenCV', 'SciKit-Learn', 'Rails', 'React'],
+            'fav tools': ['Git', 'Shell', 'Jupyter', 'VS Code', 'Jira'],
             'database': ['MySQL', 'PostgreSQL', 'MongoDB', 'SQLite3'],
             'devops': ['Docker', 'GitHub Actions', 'Heroku'],
             'os': ['macOS', 'Ubuntu']
