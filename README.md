@@ -13,10 +13,10 @@
 </p>
 
 <!-- [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cierkoszfilip) -->
+<!-- [![Website Badge](https://img.shields.io/badge/My_Website-3108d4?style=for-the-badge&logo=starship&logoColor=white)](https://filipcierkosz.com) -->
 <div align="center">
 
-  [![Website Badge](https://img.shields.io/badge/My_Website-3108d4?style=for-the-badge&logo=starship&logoColor=white)](https://filipcierkosz.com)
-  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-cierkosz/)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-cierkosz/)
   [![GitHub Badge](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chizo4)
 
 </div>
