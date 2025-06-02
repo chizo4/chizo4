@@ -1,5 +1,3 @@
-![](https://visitcount.itsvg.in/api?id=chizo4&label=Profile%20Views&color=12&icon=1&pretty=true)
-
 <h1 align="center">
   🫡 Glad to see you here! I'm Filip. Welcome to my profile! 🤝
 </h1>
