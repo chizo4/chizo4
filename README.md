@@ -42,7 +42,7 @@ class Chizo(Human):
     @staticmethod
     def get_motto() -> None:
         '''
-        Pick a random motto.
+        Let's shuffle some motto for extra discipline!
         '''
         mottos = [
             '"Insanity is doing the same thing over and over again and expecting different results." ~ A. Einstein',
