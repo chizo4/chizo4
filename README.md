@@ -3,40 +3,38 @@
 </h1>
 
 <p align="center">
-  I'm an MSc Data Science student at the <a href="https://www.uva.nl/">University of Amsterdam</a> and a recent graduate of BSc Computer Science (Class One Hons) at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>. I am very enthusiastic about machine learning, business and sports. My goal is to deliver high quality software products and seek AI-based solutions that enhance the quality of our lives - without replacing us!
+  I'm an AI enthusiast passionate about machine learning, entrepreneurship, and sports. I'm currently pursuing a Data Science internship at <a href="https://www.elsevier.com/">Elsevier</a>, focusing on RAG and NLP methods in healthcare domains. I’m also completing an MSc in Data Science at the <a href="https://www.uva.nl/">University of Amsterdam</a> and recently graduated with a BSc in Computer Science (Class One Honours) from the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>. My goal is to deliver high-quality software products and develop AI-based solutions that enhance our lives, particularly in healthcare and sports!
 </p>
 
 <p align="center">
    <b>👇 Find out more below...</b>
 </p>
 
-<!-- [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cierkoszfilip) -->
-<!-- [![Website Badge](https://img.shields.io/badge/My_Website-3108d4?style=for-the-badge&logo=starship&logoColor=white)](https://filipcierkosz.com) -->
 <div align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-cierkosz/)
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chizo4)
+  
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/filip-cierkosz/)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/thechizo4)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/chizo4)
 
 </div>
 
-## 📟 How I'd define myself in 🐍...
+## 🐍 Meet Me the Pythonic Way
 
 ```python
 import random
 
-class Chizo:
-    def __init__(self: 'Chizo') -> None:
+class Chizo(Human):
+    def __init__(self) -> None:
         '''
-        Let's provide some basic information.
+        Let's get some basic facts.
         '''
         self.name = 'Filip J. Cierkosz'
-        self.roles = ['Software Engineer', 'Student', 'Hybrid Athlete']
+        self.roles = ['Data Scientist', 'Student', 'Athlete']
         self.coding_skills = {
             'languages': ['Python', 'Ruby', 'JavaScript', 'Java'],
-            'fav frameworks': ['Transformers', 'PyTorch', 'OpenCV', 'SciKit-Learn', 'Rails', 'React'],
-            'fav tools': ['Git', 'Shell', 'Jupyter', 'VS Code', 'Jira'],
-            'database': ['MySQL', 'PostgreSQL', 'MongoDB', 'SQLite3'],
-            'devops': ['Docker', 'GitHub Actions', 'Heroku'],
+            'ml_stack': ['Transformers', 'PyTorch', 'OpenCV', 'Ollama'],
+            'se_stack': ['Ruby on Rails', 'React', 'MySQL', 'PostgreSQL', 'MongoDB'],
+            'devops': ['Docker', 'GitHub Actions', 'Heroku', 'Databricks'],
             'os': ['macOS', 'Ubuntu']
         }
         self.language_skills = ['English', 'Polish', 'German']
@@ -44,20 +42,21 @@ class Chizo:
     @staticmethod
     def get_motto() -> None:
         '''
-        Let's shuffle some motto.
+        Pick a random motto.
         '''
         mottos = [
-            'DISCIPLINE == FREEDOM',
-            'Insanity is doing the same thing over and over again and expecting different results',
-            'Never take criticism from someone you would not seek advice from'
+            '"Insanity is doing the same thing over and over again and expecting different results." ~ A. Einstein',
+            '"DISCIPLINE == FREEDOM." ~ J. Willink',
+            '"A bad plan is better than no plan." ~ J.B. Peterson',
+            '"Being consistently good is better than being occasionally great." ~ N. Bare',
         ]
         print(random.choice(mottos))
-        
-    def greet(self: 'Chizo') -> None:
+
+    def greet(self) -> None:
         '''
-        Prepare some greetings for the visitor.
+        Say hi to the visitor.
         '''
-        print('Thanks for visiting the profile! Do NOT forget to star my projects ;)')
+        print("Thanks for visiting the profile! Don't forget to ⭐️ the projects and keep up the hard work! 🚀")
 
 if __name__ == '__main__':
     me = Chizo()
