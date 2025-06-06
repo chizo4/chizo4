@@ -28,7 +28,7 @@ class Chizo(Human):
         '''
         Let's get some basic facts.
         '''
-        self.name = 'Filip J. Cierkosz'
+        self.name = 'Filip Cierkosz'
         self.roles = ['Data Scientist', 'Student', 'Athlete']
         self.coding_skills = {
             'languages': ['Python', 'Ruby', 'JavaScript', 'Java'],
