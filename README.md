@@ -3,7 +3,7 @@
 <h1 align="center">Welcome, glad to see you here! 🫡</h1>
 
 <p align="center">
-  I'm an engineer and athlete. I started coding in 2018, which led to a computer science degree in England in 2024. Sport goes back further: I've been a swimmer since I was a kid and later took up numerous new athletic challenges. In 2025, I founded <a href="https://chizolab.com">ChizoLab</a> to bring both worlds together and drive innovation in sport, human health and sports performance through technology.
+  I'm an engineer and athlete. I started coding in 2018, which led to a computer science degree in England in 2024. Sport goes back further: I've been a swimmer since I was a kid and later took on many other athletic challenges.. In 2025, I founded <a href="https://chizolab.com">ChizoLab</a> to bring both worlds together and drive innovation in sport, human health and sports performance through technology.
 </p>
 
 <p align="center">
