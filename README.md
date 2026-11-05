@@ -1,73 +1,18 @@
-<h1 align="center">
-  🫡 Glad to see you here! I'm Filip. Welcome to my profile! 🤝
-</h1>
+![Train the future.](banner.png)
+
+<h1 align="center">Welcome, glad to see you here! 🫡</h1>
 
 <p align="center">
-  I'm an AI enthusiast passionate about machine learning, entrepreneurship, and sports. I'm currently pursuing a Data Science internship at <a href="https://www.elsevier.com/">Elsevier</a>, focusing on RAG and NLP methods in healthcare domains. I’m also completing an MSc in Data Science at the <a href="https://www.uva.nl/">University of Amsterdam</a> and recently graduated with a BSc in Computer Science (Class One Honours) from the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>. My goal is to deliver high-quality software products and develop AI-based solutions that enhance our lives, particularly in healthcare and sports!
+  I'm an engineer and athlete. I started coding in 2018, which led to a computer science degree in England in 2024. Sport goes back further: I've been a swimmer since I was a kid and later took up fitness racing, athletics and calisthenics. In 2025, I founded <a href="https://chizolab.com">ChizoLab</a> to bring both worlds together and drive innovation in sport, human health and sports performance through technology.
 </p>
 
 <p align="center">
-   <b>👇 Find out more below...</b>
+  <b>👇 Find out more</b>
 </p>
 
-<div align="center">
-  
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/filip-cierkosz/)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/FilipCierkosz)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/chizo4)
-
-</div>
-
-## 🐍 Meet Me the Pythonic Way
-
-```python
-import random
-
-class Chizo(Human):
-    def __init__(self) -> None:
-        '''
-        Let's get some basic facts.
-        '''
-        self.name = 'Filip Cierkosz'
-        self.roles = ['Data Scientist', 'Student', 'Athlete']
-        self.coding_skills = {
-            'languages': ['Python', 'Ruby', 'JavaScript', 'Java'],
-            'ml_stack': ['Transformers', 'PyTorch', 'OpenCV', 'Ollama'],
-            'se_stack': ['Ruby on Rails', 'React', 'MySQL', 'PostgreSQL', 'MongoDB'],
-            'devops': ['Docker', 'GitHub Actions', 'Heroku', 'Databricks'],
-            'os': ['macOS', 'Ubuntu']
-        }
-        self.language_skills = ['English', 'Polish', 'German']
-
-    @staticmethod
-    def get_motto() -> None:
-        '''
-        Let's shuffle some motto for extra discipline!
-        '''
-        mottos = [
-            '"Insanity is doing the same thing over and over again and expecting different results." ~ A. Einstein',
-            '"DISCIPLINE == FREEDOM." ~ J. Willink',
-            '"A bad plan is better than no plan." ~ J.B. Peterson',
-            '"Being consistently good is better than being occasionally great." ~ N. Bare',
-        ]
-        print(random.choice(mottos))
-
-    def greet(self) -> None:
-        '''
-        Say hi to the visitor.
-        '''
-        print("Thanks for visiting the profile! Don't forget to ⭐️ the projects and keep up the hard work! 🚀")
-
-if __name__ == '__main__':
-    me = Chizo()
-    me.get_motto()
-    me.greet()
-```
-
-## 📈 Quick Stats
-
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=chizo4&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <a href="https://chizolab.com"><img src="https://img.shields.io/badge/website-chizolab.com-5ED0CE?labelColor=0B0C0D" alt="chizolab.com"></a>
+  <a href="https://www.linkedin.com/in/filip-cierkosz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/filipchizo"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/ChizoLab"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+</p>
